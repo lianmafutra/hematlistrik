@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_jenis_kwh">
+        <item>0–450 VA | Rp169/kWh</item>
+
+    </string-array>
+</resources>
